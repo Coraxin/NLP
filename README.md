@@ -16,6 +16,8 @@ https://radimrehurek.com/gensim/models/doc2vec.html
 
 (ipynb usage example) https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/doc2vec-lee.ipynb
 
-## Q: 
+## Q: Doc2vec get most similar documents?
+
+https://stackoverflow.com/questions/42781292/doc2vec-get-most-similar-documents
 
 
