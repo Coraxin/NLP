@@ -21,3 +21,6 @@ https://radimrehurek.com/gensim/models/doc2vec.html
 https://stackoverflow.com/questions/42781292/doc2vec-get-most-similar-documents
 
 
+#  STD-CS224N
+
+http://web.stanford.edu/class/cs224n/
