@@ -1,4 +1,4 @@
-# NLP Embedding-related Questions
+# Text Embedding-related Questions
 
 ## Q: Where to find some Pre-trained Doc2Vec/Word2Vec Models? 
 
