@@ -21,6 +21,17 @@ https://radimrehurek.com/gensim/models/doc2vec.html
 https://stackoverflow.com/questions/42781292/doc2vec-get-most-similar-documents
 
 
-#  STD-CS224N
+
+
+# STD-CS224N
 
 http://web.stanford.edu/class/cs224n/
+
+
+# LDA Questions
+
+## Q1: How to find the optimal number of K topics for LDA modeling?
+
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#17howtofindtheoptimalnumberoftopicsforlda
+
+
