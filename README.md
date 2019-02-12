@@ -34,4 +34,13 @@ http://web.stanford.edu/class/cs224n/
 
 https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#17howtofindtheoptimalnumberoftopicsforlda
 
+## Q2: What's the valid input format of data for Gensim LDA models? Only BOW (ID, WORD)?
+
+
+# Text Classification
+
+## Q1: Parameter tuning using grid search (sklearn)
+
+https://stats.stackexchange.com/questions/277014/what-parameters-to-optimize-in-knn (for KNN optimization)
+
 
