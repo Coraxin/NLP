@@ -42,5 +42,8 @@ https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#17howtofin
 ## Q1: Parameter tuning using grid search (sklearn)
 
 https://stats.stackexchange.com/questions/277014/what-parameters-to-optimize-in-knn (for KNN optimization)
+https://www.pyimagesearch.com/2016/08/15/how-to-tune-hyperparameters-with-python-and-scikit-learn/
+
+
 
 
